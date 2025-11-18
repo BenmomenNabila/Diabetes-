@@ -1,0 +1,12 @@
+# Description:
+Diabetes is a chronic disease that causes high blood sugar because the body cannot use or make insulin properly.
+
+## realization steps:
+1. Choose a topic – Define the diabetes research question.
+2. Review literature – Check what’s already known.
+3. Plan study – Set objectives, methods, and participants.
+4. Collect and analyze data – Gather info and interpret results.
+5. Conclude and share – Summarize findings and report them.
+
+6. ### Collaborators :
+7. 1-Benmoumen Nabila
