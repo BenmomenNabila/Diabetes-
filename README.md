@@ -9,4 +9,4 @@ Diabetes is a chronic disease that causes high blood sugar because the body cann
 5. Conclude and share – Summarize findings and report them.
 
 6. ### Collaborators :
-7. 1-Benmoumen Nabila
+. 1-Benmoumen Nabila
